@@ -1,3 +1,4 @@
+import AddProductPage from "./pages/AddProductPage";
 
 export const translations = {
   en: {
@@ -197,6 +198,8 @@ export const translations = {
     ordersCount: 'عدد الفواتير',
     availableProducts: 'المنتجات المتوفرة',
     addNewProduct: 'إضافة منتج جديد',
+    hideProducts: ' إخفاء المنتجات',
+    addProducts: 'إضافة المنتجات',
     noProducts: 'لا توجد منتجات لعرضها. ابدأ بإضافة منتج جديد.',
     available: 'متوفر',
     outOfStock: 'نفدت الكمية',
